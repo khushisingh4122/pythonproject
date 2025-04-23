@@ -48,6 +48,6 @@ This project uses face recognition to mark attendance from a webcam or image. It
 
 ## Author
 
-Yagya Bhardwaj, Utkarsh Sharma, Umair Elahi
+khushi singh,Yagya Bhardwaj, Utkarsh Sharma, Umair Elahi
 
 B.Tech CSE (AI & ML) — COER University
